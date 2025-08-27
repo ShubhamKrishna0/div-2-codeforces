@@ -1,5 +1,5 @@
 # div-2-codeforces
 
-| Problem Link | Problem Name | Topic |
+| Problem Link | Topic |
 |--------------|--------------|-------|
-| [https://codeforces.com/problemset/problem/XXX/YYY](https://codeforces.com/contest/2134/problem/D) | Problem Title Here | Topic/Tags Here |
+| [D. Sliding Tree](https://codeforces.com/contest/2134/problem/D) | dfs and similar trees |
