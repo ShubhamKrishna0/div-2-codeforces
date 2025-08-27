@@ -1,4 +1,4 @@
-# div-2-codeforces
+# DIV 1
 
 | Problem Link | Topic |
 |--------------|--------------|
